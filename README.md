@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💫 About Me:</h1>
   <h3>I'm a passionate software developer !!</h3>
-  <p>🖥️ See my portfolio at <a href="https://rashid-flutter.github.io/">my portfolio</a></p>
+  <p>🖥️ See my portfolio at <a href="https://rashid-flutter.github.io/portfolio/">my portfolio</a></p>
   <p>📫 How to reach me: <a href="mailto:rashidrashi0004321@gmail.com">rashidrashi0004321@gmail.com</a></p>
   <p>🌱 I’m currently working with Flutter</p>
   <p>🌍 I'm based in Palakkad, Kerala.</p>
